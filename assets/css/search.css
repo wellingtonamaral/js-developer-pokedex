@@ -1,0 +1,10 @@
+.btn {
+    padding: .25rem .5rem;
+    margin: .25rem 0;
+    font-size: .625rem;
+    color: #e9d3d3;
+    background-color: #8c79db;
+    border: none;
+    border-radius: 1rem;
+    
+}
